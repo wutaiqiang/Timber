@@ -1,5 +1,5 @@
 <p align="center">
-<img src="asset/logo3.png" width="30%"> <br>
+<img src="asset/logo_yrm.png" width="30%"> <br>
 </p>
 
 Code for the paper `Timber: Training-free Instruct Model Refining with Base via Effective Rank`
