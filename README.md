@@ -7,7 +7,7 @@
 Official code for paper `Timber: Training-free Instruct Model Refining with Base via Effective Rank`
 
 <a href="https://huggingface.co/collections/taki555/timber-68db45e4f4c64c1bfe52b492"><b>[🤗 HF Models]</b></a> •
-<a href="https://arxiv.org/abs/2509.23595"><b>[📜 Paper]</b></a>
+<a href="https://arxiv.org/abs/2509.23595"><b>[📜 Paper]</b></a> • 
 <a href="https://github.com/wutaiqiang/Timber"><b>[🐱 GitHub]</b></a>
 
 
