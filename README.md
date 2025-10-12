@@ -44,6 +44,8 @@ We use the lmdeploy backend, please remember to set
 pip install "opencompass[lmdeploy]"
 ```
 
+Remember to fix the code base following [this issue](https://github.com/open-compass/opencompass/pull/2233) for thinking.
+
 ## Weight Refine via Timber
 
 Download the official weights from huggingface:
